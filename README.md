@@ -1,1 +1,1 @@
-# STUD.PY
+# Student scholarship grading library 
